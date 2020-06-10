@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "blue-dark",
+  "title": "Blue Dark",
+  "displayName": "Blue Dark",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A bit modified starter theme",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
